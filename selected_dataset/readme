@@ -1,0 +1,7 @@
+Se selecciono el eda4 como dataset para realizar los siguientes ejercicios del proyecto
+
+Justificacion
+
+* Los datos del dataset no estan correlacionados entre si
+* Se puede crear un modelo predictivo que prediga con precision la calidad de suenho en funcion al estilo de vida de las personas
+* Aunque el alcance del dataset es limitado, este incluye variables interesantes a la hora de analizar patrones de suenho
